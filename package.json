@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [angular-crypto (v0.0.3)](https://github.com/gdi2290/angular-crypto#readme) [![npm package](https://img.shields.io/npm/v/npmtest-angular-crypto.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-crypto) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-crypto.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-crypto)",
+    "description": "#### basic test coverage for  [angular-crypto (v0.0.3)](https://github.com/gdi2290/angular-crypto#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-crypto.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-crypto) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-crypto.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-crypto)",
     "devDependencies": {
         "angular-crypto": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

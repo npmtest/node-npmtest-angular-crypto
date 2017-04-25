@@ -1,4 +1,7 @@
-# test coverage for  [angular-crypto (v0.0.3)](https://github.com/gdi2290/angular-crypto#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-crypto.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-crypto) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-crypto.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-crypto)
+# npmtest-angular-crypto
+
+#### basic test coverage for  [angular-crypto (v0.0.3)](https://github.com/gdi2290/angular-crypto#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-crypto.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-crypto) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-crypto.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-crypto)
+
 #### angular-crypto provides standard and secure cryptographic algorithms for Angular.js with support for: MD5, SHA-1, SHA-256, RC4, Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64
 
 [![NPM](https://nodei.co/npm/angular-crypto.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-crypto)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular-crypto/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-angular-crypto/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-angular-crypto/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-angular-crypto/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular-crypto/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular-crypto/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-angular-crypto/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-angular-crypto/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular-crypto/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular-crypto/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-angular-crypto/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-angular-crypto/build/coverage.html/index.html)
 
@@ -94,7 +97,8 @@
         "start": "grunt",
         "test": "grunt test"
     },
-    "version": "0.0.3"
+    "version": "0.0.3",
+    "bin": {}
 }
 ```
 
